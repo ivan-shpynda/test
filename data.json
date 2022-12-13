@@ -1,28 +1,47 @@
-{
-  "jaffle_stripe": {
-    "key": "jaffle_stripe",
-    "name": "Stripe",
-    "description": "Stripe",
-    "is_enabled": false,
-    "locations": [
-      
-    ],
-    "is_test_mode": false,
-    "live_publishable_key": null,
-    "live_secret_key": null,
-    "test_client_id": "",
-    "is_debug": false,
-    "is_enabled_payment_request": false,
-    "application_fee": 0,
-    "statement_descriptor": ""
+[
+  {
+    "id":"virtual-dom",
+    "label":"Virtual DOM",
+    "checked":false
   },
-  "credit_loyalty": {
-    "key": "credit_loyalty",
-    "name": "Credit Loyalty",
-    "description": "Credit Loyalty",
-    "is_enabled": false,
-    "locations": [
-      
-    ]
+  {
+    "id":"hoc",
+    "label":"High Ordered Components",
+    "checked":false
+  },
+  {
+    "id":"react-query",
+    "label":"React Query",
+    "checked":false
+  },
+  {
+    "id":"styled-components",
+    "label":"Styled Components",
+    "checked":true
+  },
+  {
+    "id":"router",
+    "label":"Router",
+    "checked":true
+  },
+  {
+    "id":"context",
+    "label":"Context",
+    "checked":true
+  },
+  {
+    "id":"hooks",
+    "label":"React Hooks, Custom Hooks",
+    "checked":false
+  },
+  {
+    "id":"hooks",
+    "label":"React Hooks, Custom Hooks",
+    "checked":false
+  },
+  {
+    "id":"formic",
+    "label":"Formik",
+    "checked":false
   }
-}
+]
