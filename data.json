@@ -35,11 +35,6 @@
     "checked":false
   },
   {
-    "id":"hooks",
-    "label":"React Hooks, Custom Hooks",
-    "checked":false
-  },
-  {
     "id":"formic",
     "label":"Formik",
     "checked":false
